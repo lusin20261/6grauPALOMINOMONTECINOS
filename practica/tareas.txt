@@ -1,0 +1,5 @@
+1 Mirar el celular
+2 Dormir 
+3 Comer 
+4 Jugar
+5 limpiar la mesa
