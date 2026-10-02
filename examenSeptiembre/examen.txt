@@ -1,0 +1,5 @@
+Estoy creando una descripcion y para hacerlo 
+primero me voy a alumnos luego me voy a 6grauPALOMINOMONTECINOS 
+luego con touch creo examen.txt luego hago mi descripcion despues de 
+terminar mi descripcion lo empaqueto con git add . luego lo etiquetamos commit 
+con git commit -m etiqueta luego lo enviamos con git push origin main 
